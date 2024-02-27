@@ -15,3 +15,6 @@ This is a simple number guessing game project made using HTML, CSS, and JavaScri
 - HTML
 - CSS
 - JavaScript
+
+## Preview
+![image](https://github.com/iSubhamSingh/GuessTheNumber/assets/85635625/4f0fabab-7635-4910-b52a-edf0853011d2)
