@@ -39,7 +39,7 @@ function validate(inputNumber) {
 
 function printMessage(inputNumber){
     prevG.innerHTML += ` ${inputNumber} `;
-    remain = (10- ++increment );
+    remain = (10 - (++increment ));
 
     if(remain == 0){
         endgame();
