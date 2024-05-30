@@ -57,6 +57,8 @@ function endgame(){
    
 }
 
+restart.addEventListener("click", newGame);
+
 function newGame(){
     location.reload();
 }
